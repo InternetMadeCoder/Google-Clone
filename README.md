@@ -17,6 +17,6 @@ Google Clone is a web application that serves as a frontend for Google Search, G
 ## Setup and Usage
 To run the Google Clone application locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/gattuwu/Google-Clone.git`
+1. Clone the repository: `git clone https://github.com/InternetMadeCoder/Google-Clone.git`
 2. Navigate to the project directory: `cd Google-Clone`
 3. Open the index.html file in your preferred web browser.
