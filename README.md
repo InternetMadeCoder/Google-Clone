@@ -1,11 +1,11 @@
 # Google-Clone
 Solution for CS50W's Project 0
 
-Google Clone is a web application that serves as a frontend for Google Search, Google Image Search, and Google Advanced Search. It aims to replicate the core functionalities of the popular search engine, allowing users to search for information, images, and use advanced search operators.
+[Google Clone](https://internetmadecoder.github.io/Google-Clone/) is a web application that serves as a frontend for Google Search, Google Image Search, and Google Advanced Search. It aims to replicate the core functionalities of the popular search engine, allowing users to search for information, images, and use advanced search operators.
 
-[Google Clone Site](https://internetmadecoder.github.io/Google-Clone/)
-
-[Google Clone Demo](https://youtu.be/_wa473uWuOA)
+## Links
+- [Google Clone Demo](https://youtu.be/_wa473uWuOA)
+- [Google CLone](https://internetmadecoder.github.io/Google-Clone/)
 
 ## Features
 - **Google Search**: Enter a query in the search box and retrieve relevant search results just like on Google.
