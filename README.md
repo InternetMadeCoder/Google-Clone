@@ -21,4 +21,4 @@ To run the Google Clone application locally, follow these steps:
 
 ## Links
 - [Google Clone Demo](https://youtu.be/_wa473uWuOA)
-- [Google CLone](https://internetmadecoder.github.io/Google-Clone/)
+- [Google Clone](https://internetmadecoder.github.io/Google-Clone/)
